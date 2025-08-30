@@ -1,1 +1,6 @@
-
+supabase
+streamlit
+gotrue
+pandas
+openpyxl
+fpdf
